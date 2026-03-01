@@ -2637,6 +2637,7 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 </details>
 
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
+- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure for AI agents — scalable Chromium with stealth, proxies, and session management
 Taxy AI is a full browser automation
 
 <details>
